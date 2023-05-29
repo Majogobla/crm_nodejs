@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "646fc429dfddda96a3b05098"
+  },
+  "nombre": "Camisa VueJS Actualizada",
+  "precio": 25.99,
+  "imagen": "QwFywkC8y.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6472a20dddb5a72889a7b8bc"
+  },
+  "nombre": "Camisa SASS",
+  "precio": 21,
+  "imagen": "B9-IHVWQU.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6472a25addb5a72889a7b8be"
+  },
+  "nombre": "Camisa HTML5",
+  "precio": 30,
+  "imagen": "swb0JB9W9.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6472a2d3ddb5a72889a7b8c0"
+  },
+  "nombre": "Camisa Github",
+  "precio": 60,
+  "imagen": "0tTdTJH73.jpeg",
+  "__v": 0
+}]

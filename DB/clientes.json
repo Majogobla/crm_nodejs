@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6470ecddbe525db8aa56b07c"
+  },
+  "nombre": "Marcos",
+  "apellido": "Godoy",
+  "empresa": "Wizack",
+  "email": "correo@correo.com",
+  "telefono": "12345678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6470ed3cbe525db8aa56b080"
+  },
+  "nombre": "Marcos",
+  "apellido": "Godoy",
+  "empresa": "Wizack",
+  "email": "correo4@correo.com",
+  "telefono": "12345678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6470ef0c50896f938e8536da"
+  },
+  "nombre": "Alejandra",
+  "apellido": "Hernandez",
+  "empresa": "Facebook",
+  "email": "correo5@correo.com",
+  "telefono": "12345678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6470ef3c50896f938e8536de"
+  },
+  "nombre": "Alejandra",
+  "apellido": "Hernandez",
+  "empresa": "Facebook",
+  "email": "correo6@correo.com",
+  "telefono": "12345678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6470ef5250896f938e8536e0"
+  },
+  "nombre": "Alejandra",
+  "apellido": "Hernandez",
+  "empresa": "Facebook",
+  "email": "correo7@correo.com",
+  "telefono": "12345678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6470f3f350896f938e8536ec"
+  },
+  "nombre": "Marcos",
+  "apellido": "Godoy",
+  "empresa": "Wizack",
+  "email": "marcosjgodoyb@gmail.com",
+  "telefono": "12345678",
+  "__v": 0
+}]
